@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\bin\Debug\Descuentos.exe.config
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\bin\Debug\Descuentos.exe
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\bin\Debug\Descuentos.pdb
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.frmDescuentos.resources
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.exe
+C:\Users\Kevin\source\repos\Descuentos\Descuentos\obj\Debug\Descuentos.pdb
